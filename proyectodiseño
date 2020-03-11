@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="css/estilos.css">
+  </head>
+
+<body>
+    <div class="header">
+     <div class="top-header">
+      <div class="contenedor">
+       <div class="top-menu">
+        <ul>
+          <li><a href="#">INICIO</a></li>
+          <li><a href="#">ACERCA DE</a></li>
+          <li><a href="#">CONTACTO</a></li>
+
+        </ul>
+      </div>
+      <div class="top-redes">
+         <ul>
+           <li><a href="#">FACEBOOK</a></li>
+           <li><a href="https://www.instagram.com/aquaartuniverse/">INSTAGRAM</a></li>
+           <li><a href="#">TWITTER</a></li>
+
+         </ul>
+
+       </div>
+
+
+
+      </div>
+    </div>
+  </div>
+
+    <div class="titulo-blog">
+         <div class="contenedor">
+           <h1><a href="">Gisela Castelli</a></h1>
+           <p class="subtitulo">IMPULSA TU MARCA EN LAS REDES SOCIALES</p>
+
+   </div>
+
+    </div>
+
+    <div class="menu-principal">
+      <div class="contenedor">
+        <ul>
+          <li><a href="#">INICIO</a></li>
+          <li><a href="#">ACERCA DE</a></li>
+          <li><a href="#">CONTACTO</a></li>
+          <li><a href="#">PROMOCIONES</a></li>
+          <li><a href="#">PORTFOLIO</a></li>
+
+
+
+        </ul>
+
+      </div>
+
+    </div>
+    </div>
+
+    <div class="main">
+      <div class="banner">
+        <div class="contenedor">
+          <div class="banner-principal">
+            <img src="img/banner.jpg" alt="Banner Principal">
+
+          </div>
+        </div>
+     </div>
+<div class="blog">
+  <div class="contenedor">
+    <div class="articulos-blog">
+      <div class="articulo">
+        <p class="fecha-articulo">23 de Enero del 2020</p>
+        <h3 class="titulo-articulo">Marketing Digital: 5 claves para impulsar tu marca</h3>
+        <p class="categoria-articulo">Marketing Digital</p>
+        <img src="img/nota1.jpg" alt="">
+        <div class="texto-articulo">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id lorem vitae lorem dictum ullamcorper. Nulla facilisi. Donec consequat, metus eget sollicitudin tempus, nunc odio lacinia enim, id blandit augue augue at enim. Sed tincidunt blandit porta. Nunc vestibulum aliquet vulputate. Maecenas purus elit, tincidunt vitae orci quis, volutpat pretium nulla. Nam aliquam ullamcorper ex, vel scelerisque sapien pretium eget. Quisque vel odio odio. Nulla suscipit, elit vel finibus ultrices, lectus eros mollis ligula, eu aliquam mi velit ut magna. Integer placerat dapibus augue vitae sagittis. Nam felis diam, imperdiet nec ultricies in, blandit non turpis. Donec iaculis pretium metus, ac pharetra dolor sollicitudin sit amet. Aliquam facilisis tincidunt neque a ornare. Curabitur luctus urna sapien, pharetra aliquam nibh malesuada nec. Donec turpis nunc, suscipit vitae arcu a, posuere placerat eros.</p>
+          <p>Etiam auctor consequat metus nec sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque et cursus sapien. Maecenas vehicula odio nunc, a porttitor eros cursus sit amet. Proin consectetur velit commodo lectus lacinia sagittis. Nulla lacinia eu orci id facilisis. Fusce sollicitudin risus quis libero dignissim, eu interdum quam facilisis. Curabitur nisi nibh, laoreet faucibus eros et, congue consequat orci. Integer condimentum nisi eu magna auctor, at convallis arcu sollicitudin. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In et convallis nibh. Suspendisse et nunc posuere, lobortis ex id, consectetur elit.</p>
+        </div>
+        <div class="boton">
+          <a href="#">Seguir Leyendo</a>
+
+        </div>
+
+      </div>
+      <div class="articulo">
+        <p class="fecha-articulo">23 de Enero del 2020</p>
+        <h3 class="titulo-articulo">SEO y SEM: todo lo que necesitas saber</h3>
+        <p class="categoria-articulo">Marketing Digital</p>
+        <img src="img/nota2.jpg" alt="">
+        <div class="texto-articulo">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id lorem vitae lorem dictum ullamcorper. Nulla facilisi. Donec consequat, metus eget sollicitudin tempus, nunc odio lacinia enim, id blandit augue augue at enim. Sed tincidunt blandit porta. Nunc vestibulum aliquet vulputate. Maecenas purus elit, tincidunt vitae orci quis, volutpat pretium nulla. Nam aliquam ullamcorper ex, vel scelerisque sapien pretium eget. Quisque vel odio odio. Nulla suscipit, elit vel finibus ultrices, lectus eros mollis ligula, eu aliquam mi velit ut magna. Integer placerat dapibus augue vitae sagittis. Nam felis diam, imperdiet nec ultricies in, blandit non turpis. Donec iaculis pretium metus, ac pharetra dolor sollicitudin sit amet. Aliquam facilisis tincidunt neque a ornare. Curabitur luctus urna sapien, pharetra aliquam nibh malesuada nec. Donec turpis nunc, suscipit vitae arcu a, posuere placerat eros.</p>
+          <p>Etiam auctor consequat metus nec sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque et cursus sapien. Maecenas vehicula odio nunc, a porttitor eros cursus sit amet. Proin consectetur velit commodo lectus lacinia sagittis. Nulla lacinia eu orci id facilisis. Fusce sollicitudin risus quis libero dignissim, eu interdum quam facilisis. Curabitur nisi nibh, laoreet faucibus eros et, congue consequat orci. Integer condimentum nisi eu magna auctor, at convallis arcu sollicitudin. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In et convallis nibh. Suspendisse et nunc posuere, lobortis ex id, consectetur elit.</p>
+        </div>
+        <div class="boton">
+          <a href="#">Seguir Leyendo</a>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="aside">
+      <div class="widget">
+        <div class="autor-widget">
+          <div class="foto-autor">
+            <img src="img/autor.jpg" alt="Foto del Autor">
+            <h3 class="nombre">Gisela Castelli</h3>
+            <p class="profesion">Diseñadora Gráfica | Emprendedora</p>
+            <p class="info"></p>
+          </div>
+
+        </div>
+
+      </div>
+      <div class="widget">
+        <div class="destacados-widget">
+          <h3 class="titulo-destacados">Entradas</h3>
+          <ul>
+            <li><a href="#">Enlace 1</a></li>
+            <li><a href="#">Enlace 1</a></li>
+            <li><a href="#">Enlace 1</a></li>
+            <li><a href="#">Enlace 1</a></li>
+            <li><a href="#">Enlace 1</a></li>
+            <li><a href="#">Enlace 1</a></li>
+          </ul>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+</div>
+
+    </div>
+
+    <div class="footer">
+      <p>Todos los derechos reservados</p>
+
+    </div>
+  </body>
+</html>
